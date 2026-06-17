@@ -14,26 +14,26 @@ English.
 
 ## Target Group
 
-This programme is aimed at managers, HR practitioners, team leaders, HR business partners, organisational development practitioners, consultants and postgraduate learners who need to use generative AI responsibly in HR-related work.
+This programme is aimed at departmental heads, team leads, line managers, supervisors, project leads, operations leads, HR practitioners, HR business partners, organisational development practitioners, consultants and postgraduate learners who need to use generative AI responsibly in everyday workplace and people-management contexts.
 
 ## Problem Being Solved
 
-Many managers are experimenting with ChatGPT, Claude and other large language models in HR tasks such as job descriptions, policy drafting, onboarding, performance conversations and learning design. The problem is that tool use is often informal, inconsistent and disconnected from work redesign, data protection, employee trust and managerial accountability.
+Many departmental heads, team leads and managers are experimenting with ChatGPT, Claude and other large language models in workplace tasks such as planning, communication, reporting, policy drafting, onboarding, performance conversations, learning design and team coordination. The problem is that tool use is often informal, inconsistent and disconnected from work redesign, data protection, employee trust and managerial accountability.
 
-This SLP teaches participants to move from "prompting" to **responsible work redesign**: deciding which HR tasks AI can support, which decisions must remain human-led, and how to redesign workflows so AI improves quality, speed, inclusion and learning without weakening judgment.
+This SLP teaches participants to move from "prompting" to **responsible work redesign**: deciding which workplace and people-management tasks AI can support, which decisions must remain human-led, and how to redesign workflows so AI improves quality, speed, inclusion and learning without weakening judgment.
 
 ## Purpose
 
-The purpose of this programme is to teach skills for evaluating, using and governing generative AI tools in managerial HRM practice, with emphasis on work redesign, productivity, human oversight and employee experience.
+The purpose of this programme is to teach skills for evaluating, using and governing generative AI tools in managerial work and HRM-related practice, with emphasis on work redesign, productivity, human oversight and employee experience.
 
 ## Learning Outcomes
 
 On completion, learners should be able to:
 
-- Explain how LLMs affect HRM tasks, managerial work and employee experience.
-- Identify HRM use cases where generative AI can assist, augment or create risk.
-- Design prompt workflows for common HRM tasks while protecting confidentiality and fairness.
-- Map a current HR workflow and redesign it for responsible AI assistance.
+- Explain how LLMs affect workplace tasks, managerial work, HRM processes and employee experience.
+- Identify workplace and HRM use cases where generative AI can assist, augment or create risk.
+- Design prompt workflows for common managerial and HRM-related tasks while protecting confidentiality and fairness.
+- Map a current workplace workflow and redesign it for responsible AI assistance.
 - Develop a practical AI use guide for managers in their organisation.
 
 ## Study Units
@@ -48,15 +48,15 @@ Content areas:
 - Labour-market evidence on AI, skills and task redesign.
 - HRM functions most affected by LLMs: recruitment support, onboarding, policy drafting, employee communication, learning and performance support.
 
-### AHRM01B - Practical LLM Use for Managers and HR Practitioners
+### AHRM01B - Practical LLM Use for Departmental Heads, Team Leads and HR Practitioners
 
 Content areas:
 
-- Prompt design for HRM tasks.
+- Prompt design for everyday workplace and people-management tasks.
 - Job description drafting and role clarification.
 - Interview question drafting with fairness checks.
 - Onboarding and employee communication templates.
-- Learning design, coaching prompts and meeting preparation.
+- Learning design, coaching prompts, team communication and meeting preparation.
 - Quality assurance: hallucination checks, source checks and human review.
 
 ### AHRM01C - Work Redesign and Human-in-the-Loop HRM
@@ -82,7 +82,7 @@ Content areas:
 
 ## Assessment
 
-- **Formative task 1:** LLM use-case map for one HRM process.
+- **Formative task 1:** LLM use-case map for one workplace or HRM process.
 - **Formative task 2:** Prompt workflow with quality and fairness checks.
 - **Formative task 3:** Work redesign map comparing current and AI-assisted process.
 - **Final portfolio:** Managerial AI + HRM work redesign guide for a selected organisation or case.
@@ -91,7 +91,7 @@ Content areas:
 
 Learners produce a **Responsible LLM Use and HR Work Redesign Playbook** containing:
 
-- A selected HRM problem.
+- A selected workplace or HRM problem.
 - Current workflow map.
 - AI-assisted future workflow.
 - Prompt library.

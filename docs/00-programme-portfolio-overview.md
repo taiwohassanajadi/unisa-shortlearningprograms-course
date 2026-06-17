@@ -6,7 +6,7 @@
 
 ## Purpose
 
-This portfolio proposes five standalone Short Learning Programme (SLP) concepts for the University of South Africa context. The portfolio is designed around one core problem: managers and HR professionals are being asked to use AI in people-related decisions before they have reliable frameworks for work redesign, governance, analytics, automation, and sustainable implementation.
+This portfolio proposes five standalone Short Learning Programme (SLP) concepts for the University of South Africa context. The portfolio is designed around one core problem: departmental heads, team leads, managers and HR professionals are being asked to use AI in workplace decisions before they have reliable frameworks for work redesign, governance, analytics, automation, and sustainable implementation.
 
 The five SLPs are deliberately practical. Each concept can stand alone as a short course, but together they form a coherent portfolio on AI-enabled human resource management.
 
@@ -22,13 +22,14 @@ Recommended default format for all five concepts:
 - **Level:** Applied undergraduate/postgraduate bridge, suitable for managers and postgraduate learners
 - **Assessment model:** 40% formative tasks, 60% final applied portfolio
 - **Credential logic:** Non-degree SLP / certificate of competence, subject to UNISA approval
-- **Academic home:** College of Economic and Management Sciences, with possible collaboration from Science, Engineering and Technology, Law, Human Sciences, and the Centre for Lifelong Learning
+- **Academic home:** College of Accounting Sciences (CAS), Department of Auditing.
+- **Institute / collaboration platform:** Centre for Artificial Intelligence & Multidisciplinary Innovation Studies, University of South Africa, in collaboration with the Centre for Lifelong Learning.
 
 ## The Five SLP Concepts
 
 1. **AI + HRM for Managers: From LLM Use to Work Redesign**
-   - Focus: practical use of ChatGPT, Claude and similar LLMs for HR tasks, with emphasis on redesigning work rather than only prompting tools.
-   - Best audience: managers, HR business partners, team leads, HRD practitioners and postgraduate learners in management.
+   - Focus: practical use of ChatGPT, Claude and similar LLMs for workplace and people-management tasks, with emphasis on redesigning work rather than only prompting tools.
+   - Best audience: departmental heads, team leads, line managers, HR business partners, HRD practitioners, operations leads, project leads and postgraduate learners in management.
 
 2. **Responsible AI Governance in HRM: Ethics, Risk and Compliance**
    - Focus: fairness, accountability, privacy, transparency, human oversight, POPIA, international AI governance standards, and high-risk HR use cases.
