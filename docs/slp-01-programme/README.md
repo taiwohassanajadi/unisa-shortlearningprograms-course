@@ -20,6 +20,8 @@
 - [Facilitator guide](05-facilitator-guide.md)
 - [Case study and worksheet pack](06-case-study-and-worksheet-pack.md)
 - [Reading list and research notes](07-reading-list-and-research-notes.md)
+- [Formal SLP proposal draft](08-formal-slp-proposal-draft.md)
+- [Stakeholder presentation outline](09-stakeholder-presentation-outline.md)
 
 ## Programme Summary
 
