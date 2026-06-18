@@ -18,5 +18,6 @@ The seed idea is **AI + HRM for Managers: From LLM Use to Work Redesign**. The p
 - [SLP 04: Agentic HRM and Workflow Automation](docs/slp-04-agentic-hrm-workflow-automation.md)
 - [SLP 04 full programme package](docs/slp-04-programme/README.md)
 - [SLP 05: AI, Green HRM and Sustainable Work Transformation](docs/slp-05-ai-green-hrm-sustainable-work.md)
+- [SLP 05 full programme package](docs/slp-05-programme/README.md)
 - [Course development roadmap](docs/03-course-development-roadmap.md)
 - [Cross-concept research brief](docs/04-cross-concept-research-brief.md)
